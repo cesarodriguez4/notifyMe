@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Notifyme</string>
+    <string name="send_message">Send</string>
+    <string name="sms_send">Sending sms...</string>
 </resources>
