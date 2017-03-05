@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Notifyme</string>
     <string name="send_message">Send</string>
-    <string name="sms_send">Sending sms...</string>
+    <string name="sms_send">Sending sms</string>
+    <string name="title_send_message">Type a SMS below</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sending_sms">Sending SMS</string>
 </resources>

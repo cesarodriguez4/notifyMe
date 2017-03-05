@@ -18,6 +18,28 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true">
 
+        <TextView
+            android:text="@string/title_send_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="SMS"
+            android:ems="10"
+            android:id="@+id/message" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            android:text="@string/phone_number"
+            android:id="@+id/phone_number" />
+
         <Button
             android:text="@string/send_message"
             android:layout_width="match_parent"
